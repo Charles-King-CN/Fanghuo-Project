@@ -303,8 +303,9 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "24cc7aa53b2543e5",
+  "active": "95a2a2f5f5a03ea8",
   "lastOpenFiles": [
+    "README.md",
     "看板.md",
     "消防项目集/华能青海分公司.md",
     "消防项目集/青岛博物馆.md",
@@ -337,7 +338,6 @@
     "Life/-1. Capture/Advice for ambitious 19 year olds.md",
     "消防项目集",
     "copilot-custom-prompts/Summarize.md",
-    "textgenerator/templates/default/summarize.md",
     "copilot-custom-prompts",
     "textgenerator/templates/default",
     "textgenerator/templates",
