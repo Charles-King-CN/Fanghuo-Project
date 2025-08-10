@@ -1,0 +1,56 @@
+{
+  "id": "1dd669e1-2abf-4453-a1f6-4c72ed642fbc",
+  "title": "生活意义",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "生活意义",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n生活意义\n\n"
+        }
+      ],
+      "id": "8704d100-987e-4d26-bb39-55434306e6d3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "textgenerator/templates/default/summarize.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1753151857879,
+  "updatedAt": 1753151900650,
+  "schemaVersion": 1
+}
