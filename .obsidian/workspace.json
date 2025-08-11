@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "消防项目集/华能青海分公司.md",
+                "file": "设备列表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "华能青海分公司"
+              "title": "设备列表"
             }
           }
         ],
@@ -153,23 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "看板.md",
+                "file": "消防项目集/华能青海分公司.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看板 的大纲"
-            }
-          },
-          {
-            "id": "e01697f46e530a02",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "华能青海分公司 的大纲"
             }
           },
           {
@@ -265,13 +255,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "105f55b41e0ccbc9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 676.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,14 +303,14 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "95a2a2f5f5a03ea8",
+  "active": "24cc7aa53b2543e5",
   "lastOpenFiles": [
+    "消防项目集/设备类型.md",
+    "消防项目集/华能青海分公司.md",
     "README.md",
     "看板.md",
-    "消防项目集/华能青海分公司.md",
     "消防项目集/青岛博物馆.md",
     "消防项目集/gantt.md",
-    "消防项目集/设备类型.md",
     "草稿-BUG.md",
     "合同流程-付款流程.md",
     "设备列表.md",
