@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿-BUG.md",
+                "file": "消防项目集/华能青海分公司.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "草稿-BUG"
+              "title": "华能青海分公司"
             }
           }
         ],
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "27a59fd635fde5b5",
@@ -305,6 +306,7 @@
   },
   "active": "24cc7aa53b2543e5",
   "lastOpenFiles": [
+    "草稿-BUG.md",
     "设备列表.md",
     "消防项目集/设备类型.md",
     "消防项目集/华能青海分公司.md",
@@ -312,7 +314,6 @@
     "看板.md",
     "消防项目集/青岛博物馆.md",
     "消防项目集/gantt.md",
-    "草稿-BUG.md",
     "合同流程-付款流程.md",
     "设备列表js.md",
     "半年期改进方案.md",
