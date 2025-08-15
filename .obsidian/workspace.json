@@ -11,19 +11,14 @@
             "id": "24cc7aa53b2543e5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "看板.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "消防项目集/华能青海分公司.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "看板"
+              "icon": "lucide-file",
+              "title": "华能青海分公司"
             }
           }
         ],
@@ -168,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "看板.md",
+                "file": "平度海信.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看板 的大纲"
+              "title": "平度海信 的大纲"
             }
           },
           {
@@ -308,22 +303,22 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "8a9712daa9157d54",
+  "active": "4bb6c3fa8a12cbdb",
   "lastOpenFiles": [
-    "合同流程-付款流程.md",
-    "草稿-BUG.md",
+    "消防项目集/gantt.md",
+    "消防项目集/青岛博物馆.md",
     "消防项目集/华能青海分公司.md",
-    "半年期改进方案.md",
-    "平度海信.md",
+    "看板.md",
+    "README.md",
     "设备列表.md",
     "设备列表js.md",
-    "README.md",
-    "看板.md",
+    "平度海信.md",
+    "消防项目集/设备类型.md",
+    "半年期改进方案.md",
+    "草稿-BUG.md",
+    "合同流程-付款流程.md",
     "Pasted image 20250813132549.png",
     "Pasted image 20250813132512.png",
-    "消防项目集/设备类型.md",
-    "消防项目集/青岛博物馆.md",
-    "消防项目集/gantt.md",
     "合作设备商目录",
     "Pasted image 20250723161744.png",
     "Pasted image 20250723161709.png",
